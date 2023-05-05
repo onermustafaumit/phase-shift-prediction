@@ -156,7 +156,7 @@ Predictions were then processed to obtain performance metrics:
 python obtain_performance_metrics.py --data_file test_metrics/2023_04_27__00_19_15__best_4872/data_test_normalized/predictions_2023_04_27__00_19_15__best_4872.txt
 ```
 
-Performonce statistics were saved inside the same folder.
+Residual error vs. cumulative % data points was plotted and performance statistics were saved inside the same folder.
 
 ```console
 test_metrics
@@ -175,7 +175,8 @@ root_mean_square_error = 0.1093 (95% CI:0.1075 - 0.1111)
 mean_absolute_error = 0.0386 (95% CI:0.0377 - 0.0395)
 ```
 
-Residual error vs. cumulative % data points was plotted:
+
+> `residual_errors__2023_04_27__00_19_15__best_4872.png`
 
 <img src="_images/residual_errors__2023_04_27__00_19_15__best_4872.png" alt="alt text" width="500"/>
 
