@@ -55,7 +55,7 @@ data
 
 A few example data points from the training set are shown below.
 
-| $V_{in1}$ | $I_{in1}$ | $V_{in2}$ | $I_{in2}$ | $\theta_{opt}$|
+| $\bm{V_{in1}}$ | $\bm{I_{in1}}$ | $\bm{V_{in2}}$ | $\bm{I_{in2}}$ | $\bm{\theta_{opt}}$|
 |---|---|---|---|---|
 | 15.00 | 0.60 | 15.00 | 1.40 | 90.00 |
 | 15.00 | 0.60 | 15.00 | 1.60 | 90.00 |
