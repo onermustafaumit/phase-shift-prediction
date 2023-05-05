@@ -1,0 +1,2 @@
+root_mean_square_error = 0.1093 (95% CI:0.1075 - 0.1111)
+mean_absolute_error = 0.0386 (95% CI:0.0377 - 0.0395)
