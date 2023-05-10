@@ -1,6 +1,6 @@
 # Phase Shift Prediction
 
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7920339.svg)](https://doi.org/10.5281/zenodo.7920339)
 
 This repository is the official implementation of [Ripple Minimization in Asymmetric Interleaved
 DC-DC Converters Using Neural Networks](). 
